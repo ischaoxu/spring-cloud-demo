@@ -9,7 +9,11 @@
     <file url="file://$PROJECT_DIR$/cloud_consumer_feign_order80/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud_gateway_gateway9527/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud_provider_hystrix_payment8001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudalibaba/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudalibaba/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloudalibaba_provider_payment9001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../Maven/repository/org/springframework/boot/spring-boot-starter-parent/2.3.6.RELEASE/src/main/resources" charset="UTF-8" />
   </component>
 </project>
