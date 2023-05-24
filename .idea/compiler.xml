@@ -6,9 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cloudalibaba-config-nacos-client3377" />
         <module name="cloud_provider_hystrix_payment8001" />
         <module name="cloud-eureka-server7001" />
         <module name="cloud-api-commons" />
+        <module name="cloudalibaba_provider_payment9001" />
+        <module name="cloudalibaba-consumer-nacos-order83" />
         <module name="cloud-provider-payment8001" />
         <module name="cloud_consumer_feign_order80" />
         <module name="cloud-consumer-order80" />
@@ -17,7 +20,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloudalibaba" target="1.8" />
-      <module name="cloudalibaba_provider_payment9001" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -30,7 +32,9 @@
       <module name="cloud_gateway_gateway9527" options="-parameters" />
       <module name="cloud_provider_hystrix_payment8001" options="-parameters" />
       <module name="cloudalibaba" options="" />
-      <module name="cloudalibaba_provider_payment9001" options="" />
+      <module name="cloudalibaba-config-nacos-client3377" options="-parameters" />
+      <module name="cloudalibaba-consumer-nacos-order83" options="-parameters" />
+      <module name="cloudalibaba_provider_payment9001" options="-parameters" />
       <module name="spring-cloud-demo" options="" />
     </option>
   </component>
